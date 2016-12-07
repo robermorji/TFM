@@ -8,3 +8,4 @@
 !mathlab
 !lib
 !*.py
+!*.m
