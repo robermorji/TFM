@@ -2,6 +2,7 @@
 *
 
 #except 
+!MathLab
 !lib
 !.gitignore
 !*.py
