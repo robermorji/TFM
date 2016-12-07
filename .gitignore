@@ -2,6 +2,6 @@
 *
 
 #except 
-!lib/*
+!lib
 !.gitignore
 !*.py
