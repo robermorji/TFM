@@ -2,7 +2,9 @@
 *
 
 #except 
-!MathLab
-!lib
 !.gitignore
+!mathlab/circlem/
+!mathlab/circlem_v1/
+!mathlab
+!lib
 !*.py
